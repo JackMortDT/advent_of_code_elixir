@@ -1,6 +1,9 @@
 # AdventOfCode
 
-**TODO: Add description**
+[![Coverage Status](https://coveralls.io/repos/github/JackMortDT/advent_of_code_elixir/badge.svg?branch=main)](https://coveralls.io/github/JackMortDT/advent_of_code_elixir?branch=main)
+
+
+Advent of code exercises with elixir
 
 ## Installation
 
